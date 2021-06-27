@@ -10,6 +10,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 2. Redux - react-redux redux-thunk
 3. CSS - Tailwind css and Tailwind Jit
 4. hosted On - Netlify
-
-# Metlify Link :
-https://moviedb-mukul.netlify.app
